@@ -1,0 +1,25 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    padding: 0 10%;
+}
+
+header {
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 0 10%;
+}
+
+
+
+.new-content {
+    width: 100%;
+}
+
+.article-01, .article-02, .article-03, .article-04 {
+    border: 1px solid black;
+    padding: 0.5em;
+    margin: 0.5em 0;
+}
